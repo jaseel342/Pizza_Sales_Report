@@ -1,1 +1,1 @@
-# Pizza Sales Report Using Excel, MsSQl and Power Bi
+# Pizza Sales Report Using Excel, MsSQL and Power Bi

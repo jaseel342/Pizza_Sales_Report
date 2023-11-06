@@ -8,4 +8,5 @@ The project required the following resources:
 * Power BI : Power BI was used for the creation of visualization and dashboard.
 * SQL: SQL Server 2019 was used to analyze the dataset.
 * Importing Data and Inspecting Imported Data.
+
 The CSV file was downloaded from the GitHub repository and imported into SQL Server using the database engine's import task. The imported data was examined to understand its structure and contents. Distinct searches were performed on various data points, including order number, ordered price, sales order date, and status.

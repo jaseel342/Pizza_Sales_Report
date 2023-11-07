@@ -11,8 +11,14 @@ The project required the following resources:
 
 The CSV file was downloaded from the Kaggle and imported into SQL Server using the database engine's import task. The imported data was examined to understand its structure and contents.
 
+
+# Power BI Dashboard
+This is an interactive Power BI Dashboard , you can download it from my repo, it's called "Pizza_Sales_Report.pbix"
+
 Pizza Sales Overview REPORT
+
 <img width="618" alt="image" src="https://github.com/jaseel342/Pizza_Sales_Report/assets/135998004/27c9f9df-46f7-4ea2-8a99-1f434ffc7f49">
 
 Pizza Sales Overview REPORT based on Best/Worst Sellers
+
 <img width="618" alt="image" src="https://github.com/jaseel342/Pizza_Sales_Report/assets/135998004/619376f6-9fde-46f9-bee8-884b55d122e3">
